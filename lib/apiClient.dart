@@ -1,4 +1,4 @@
 class ApiClient
 {
-  String apiUrl = "";
+  String apiUrl = "https://websterapp.herokuapp.com/";
 }
